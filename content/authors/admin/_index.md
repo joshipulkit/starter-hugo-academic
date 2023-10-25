@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Research Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tata Institute of Fundamental Research
+    url: https://main.tifr.res.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include understanding intermolecular interactions and electron-molecule interactions using density functional theory tools.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Noncovalent Intermolecular Interactions
+  - Metastable Anionic States (Resonances)
+  - Density Functional Theory
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Chemical Sciences
+      institution: Tata Institute of Fundamental Research
+      year: 2018-present
+    - course: M.Sc. in Chemistry
+      institution: University of Delhi
+      year: 2016-2018
+    - course: B.Sc.(H) in Chemistry
+      institution: St. Stephen's College
+      year: 2013-2016
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,18 +53,18 @@ skills:
     items:
     - name: Python
       description: ''
-      percent: 80
+      percent: 70
       icon: python
       icon_pack: fab
-    - name: Data Science
+    - name: Git
       description: ''
-      percent: 100
-      icon: chart-line
+      percent: 70
+      icon: git-alt
       icon_pack: fas
-    - name: SQL
+    - name: Bash scripting
       description: ''
-      percent: 40
-      icon: database
+      percent: 80
+      icon: linux
       icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -72,18 +72,18 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 90
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Table Tennis
         description: ''
-        percent: 100
-        icon: cat
+        percent: 70
+        icon: table-tennis-paddle-ball
         icon_pack: fas
-      - name: Photography
+      - name: Violin
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 50
+        icon: music
         icon_pack: fas
 
 # Social/Academic Networking
@@ -96,19 +96,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/joshipulkit_
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=rqIYelAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/joshipulkit
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/joshipulkit/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Pulkit Joshi is a member of Quantum Chemistry Group at Tata Institute of Fundamental Research. His research interests include developing new theoretical tools to understand noncovalent interactions in open-shell systems and metastable anionic states.
 {style="text-align: justify;"}
