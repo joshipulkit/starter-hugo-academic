@@ -62,27 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Graduate Research Fellow
+          company: Quantum Chemistry Group
+          company_url: 'vkvoora.github.io'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Mumbai, India
+          date_start: '2019-07-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Development of beyond-RPA tool for understanding weak intermolecular interactions
+              * Designing computational techniques to study temporary anionic states
+              * Documentation of group's computational resources
+        - title: Summer Research Fellow
+          company: CSIR-Indian Institute of Chemical Technology
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Hyderabad, India
+          date_start: '2017-05-21'
+          date_end: '2017-07-23'
+          description: Introduction to BigData in chemistry. Using ChemmineR package within R, I used topological desciptors to cluster nearly 2000 FDA approved drugs. The project was a preliminary step towards drug repurposing.
     design:
       columns: '2'
   - block: accomplishments
